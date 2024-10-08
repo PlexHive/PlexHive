@@ -6,7 +6,7 @@ What is PlexHive?
 
 ![](./src/qt/res/icons/presentationlogo-fade.png)
 
-PlexHive is a fork of Litecoin supporting SHA256 PoW and Hive Mining. For full details, as well as prebuilt binaries for Windows, Mac and Linux, please visit our website at https://plexhive.com.
+PlexHive is a fork of Litecoin supporting SHA256 PoW, Minotaurx CPU/POW and Hive Mining. For full details, as well as prebuilt binaries for Windows, Mac and Linux, please visit our website at https://plexhive.com.
 
 PlexHive Core is the full node software that makes up the backbone of the PLHV network.
 
@@ -25,11 +25,6 @@ regularly to indicate new official, stable release versions of PlexHive Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/plexhive-dev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
-
-Developer IRC can be found on Freenode at #plexhive-dev.
 
 Testing
 -------
