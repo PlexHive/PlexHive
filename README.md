@@ -10,6 +10,18 @@ PlexHive is a POW project supporting SHA256 PoW, Minotaurx CPU/POW and Hive Mini
 
 PlexHive Core is the full node software that makes up the backbone of the PLHV network.
 
+Coin Specifics
+----------------------
+840 million total supply
+2.5 minute block time
+SHA256, MinotaurX (CPU), Hive mining options
+No premine
+Slow mining start (2000 blocks)
+DarkGravity V3 difficulty adjustment
+52658/52657 - RPC/P2P ports
+
+
+
 License
 -------
 
