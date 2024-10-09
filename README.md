@@ -31,7 +31,7 @@ DarkGravity V3 difficulty adjustment
 Get Connected
 ----------------------
 
-[Website](www.plexhive.com)
+Website www.plexhive.com
 
 [Block Explorer](www.explorer.plexhive.com)
 
