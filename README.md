@@ -33,6 +33,10 @@ Get Connected
 
 [Website](www.plexhive.com)
 
+[Block Explorer](www.explorer.plexhive.com)
+
+[Pool](www.pool.plexhive.com)
+
 [Discord](https://discord.gg/GrvXQGtn)
 
 [X](@PlexHive_PLHV)
