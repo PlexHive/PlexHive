@@ -33,9 +33,9 @@ Get Connected
 
 Website www.plexhive.com
 
-Block Explorer www.explorer.plexhive.com
+Block Explorer explorer.plexhive.com
 
-Pool www.pool.plexhive.com
+Pool pool.plexhive.com
 
 Discord https://discord.gg/GrvXQGtn
 
