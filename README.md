@@ -12,6 +12,7 @@ PlexHive Core is the full node software that makes up the backbone of the PLHV n
 
 Coin Specifics
 ----------------------
+
 840 million total supply
 
 2.5 minute block time
@@ -26,6 +27,17 @@ DarkGravity V3 difficulty adjustment
 
 52658/52657 - RPC/P2P ports
 
+
+Get Connected
+----------------------
+
+[Website](www.plexhive.com)
+
+[Discord](https://discord.gg/GrvXQGtn)
+
+[X](@PlexHive_PLHV)
+
+[Forum](https://bitcointalk.org/)
 
 
 License
