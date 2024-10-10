@@ -24,7 +24,7 @@ chmod +x config.guess
 chmod +x config.sub
 cd ..
 ./autogen.sh
-./configure
+./configure # optional build Berkeley DB below if needed (follow commands after build)
 make
 make install # optional
 ```
