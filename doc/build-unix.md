@@ -18,6 +18,10 @@ To Build
 ---------------------
 
 ```bash
+find -type f -iname "*.sh" -exec chmod +x {} \;
+cd depends
+chmod +x config.guess
+chmod +x config.sub
 ./autogen.sh
 ./configure
 make
