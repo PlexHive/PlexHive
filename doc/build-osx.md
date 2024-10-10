@@ -47,10 +47,10 @@ from the root of the repository.
 Build PlexHive Core
 ------------------------
 
-1. Clone the plexhive source code and cd into `plexhive`
+1. Clone the plexhive source code and cd into `PlexHive`
 
-        git clone https://github.com/plexhive-project/plexhive
-        cd plexhive
+        git clone https://github.com/PlexHive/PlexHive
+        cd PlexHive
 
 2.  Build plexhive-core:
 
