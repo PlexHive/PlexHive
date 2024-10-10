@@ -22,6 +22,7 @@ find -type f -iname "*.sh" -exec chmod +x {} \;
 cd depends
 chmod +x config.guess
 chmod +x config.sub
+cd ..
 ./autogen.sh
 ./configure
 make
