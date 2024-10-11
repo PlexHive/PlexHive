@@ -125,7 +125,7 @@ public:
         consensus.powLimitSHA = uint256S("00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff");   // Initial hash target at fork
         consensus.slowStartBlocks = 2000;                                                                     // Scale post-fork block reward up over this many blocks
         consensus.premineAmount = 0;                   // Premine amount (less than 1% of issued currency at fork time)
-        std::vector<unsigned char> vch = ParseHex("001498aa3b2c568d3f1d833f06ce425bc5465a1a9965");
+        std::vector<unsigned char> vch = ParseHex("21026da715ff2725e9071a048d64b7e00c823e4e54fec8297e3ae8fa94b08ed8091eac");
         consensus.premineOutputScript = CScript(vch.begin(), vch.end());	// Output script for premine block (VF5497oDxFADEsnBRzmzzMufWRqSt3PU7S)
         consensus.totalMoneySupplyHeight = 6215968;         // Height at which TMS is reached, do not issue rewards past this point
 
@@ -163,10 +163,10 @@ public:
     //    consensus.powTypeLimits.emplace_back(uint256S("0x000fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")); // MinotaurX limit
 
         // The best chain should have at least this much work.
-        consensus.nMinimumChainWork = uint256S("0000000000000000000000000000000000000000000000000000000400b400b4");  // 14
+        consensus.nMinimumChainWork = uint256S("000000000000000000000000000000000000000000000002eca09d8164db5027");  // 12000
 
         // By default assume that the signatures in ancestors of this block are valid.
-        consensus.defaultAssumeValid = uint256S("00000000d06f6b1481a31389dd85994bb1dc769a16a0e2dccf31fb3ac90639b1"); // 14
+        consensus.defaultAssumeValid = uint256S("00000000000000b6277faf4de9d248f61fc74b6d83aabf7aeb5498358dce9a24"); // 12000
 
         /**
          * The message start string is designed to be unlikely to occur in normal data.
@@ -205,18 +205,18 @@ public:
 
         checkpointData = {
             {
-                {  0, uint256S("0x12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2")},
                 {  14, uint256S("0x00000000d06f6b1481a31389dd85994bb1dc769a16a0e2dccf31fb3ac90639b1")}, // Plexhive: 14
                 {  7500, uint256S("0xbd2bd1e3e8b963ad3b8e6812a3d679bbb32e49298c3feb4297ee1e8b3a130af7")},
+                {12000, uint256S("0x00000000000000b6277faf4de9d248f61fc74b6d83aabf7aeb5498358dce9a24")}, //12000
             }
         };
 
         chainTxData = ChainTxData{
-            // Data as of block 12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2 (height 0).
-            1725891184,        // * UNIX timestamp of last known number of transactions
-            15,   // * total number of transactions between genesis and that timestamp
+            // Data as of block 12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2 (height 12083).
+            1728668325, // * UNIX timestamp of last known number of transactions
+            15320,      // * total number of transactions between genesis and that timestamp
                         //   (the tx=... number in the SetBestChain debug.log lines)
-            1.625 // * estimated number of transactions per second after that timestamp
+            0.004948320129629319 // * estimated number of transactions per second after that timestamp
         };
     }
 };
