@@ -54,6 +54,11 @@
 # error "PlexHive cannot be compiled without assertions."
 #endif
 
+#include <boost/bind/bind.hpp>
+#include <boost/signals2/signal.hpp>
+using namespace boost::placeholders;
+
+
 #define MICRO 0.000001
 #define MILLI 0.001
 
