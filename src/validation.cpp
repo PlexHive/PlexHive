@@ -50,6 +50,9 @@
 #include <miner.h>  // PlexHive: Hive
 #include <merkleblock.h> // PlexHive: Hive for merkle transaction check in block
 
+#include <boost/bind/bind.hpp>
+using namespace boost::placeholders;
+
 #if defined(NDEBUG)
 # error "PlexHive cannot be compiled without assertions."
 #endif
