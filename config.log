@@ -282,7 +282,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | /* end confdefs.h.  */
@@ -309,7 +309,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | /* end confdefs.h.  */
@@ -331,7 +331,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | /* end confdefs.h.  */
@@ -353,7 +353,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | /* end confdefs.h.  */
@@ -515,7 +515,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | /* end confdefs.h.  */
@@ -535,7 +535,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | /* end confdefs.h.  */
@@ -597,7 +597,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -703,7 +703,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -734,7 +734,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -933,7 +933,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -987,7 +987,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -1082,7 +1082,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -1152,7 +1152,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -1249,7 +1249,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -1347,7 +1347,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -1442,7 +1442,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -1546,7 +1546,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -1609,7 +1609,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -1677,7 +1677,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -1768,7 +1768,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -1828,7 +1828,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -1919,7 +1919,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -1979,7 +1979,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -2070,7 +2070,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -2150,7 +2150,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -2247,7 +2247,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -2313,7 +2313,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -2410,7 +2410,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -2480,7 +2480,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -2591,7 +2591,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -2676,7 +2676,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -2762,7 +2762,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -2849,7 +2849,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -2937,7 +2937,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -3026,7 +3026,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -3116,7 +3116,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -3207,7 +3207,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -3299,7 +3299,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -3392,7 +3392,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -3486,7 +3486,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -3581,7 +3581,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -3677,7 +3677,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -3772,7 +3772,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -3868,7 +3868,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -3977,7 +3977,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -4068,7 +4068,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -4165,7 +4165,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -4260,7 +4260,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -4359,7 +4359,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -4454,7 +4454,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -4547,7 +4547,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -4641,7 +4641,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -4736,7 +4736,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -4833,7 +4833,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -4930,7 +4930,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -5027,7 +5027,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -5124,7 +5124,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -5221,7 +5221,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -5318,7 +5318,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -5415,7 +5415,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -5512,7 +5512,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -5609,7 +5609,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -5706,7 +5706,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -5803,7 +5803,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -5900,7 +5900,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -5997,7 +5997,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -6094,7 +6094,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -6191,7 +6191,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -6288,7 +6288,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -6385,7 +6385,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -6582,7 +6582,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -6688,7 +6688,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -6790,7 +6790,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -6892,7 +6892,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -6997,7 +6997,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -7103,7 +7103,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -7267,7 +7267,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -7511,7 +7511,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -7626,7 +7626,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -7835,7 +7835,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -8004,7 +8004,7 @@ configure: failed program was:
 | #define PACKAGE_TARNAME "plexhive"
 | #define PACKAGE_VERSION "0.16.3"
 | #define PACKAGE_STRING "PlexHive Core 0.16.3"
-| #define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+| #define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 | #define PACKAGE_URL "https://plexhive.com/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
@@ -8674,7 +8674,7 @@ OBJEXT='o'
 OTOOL64=''
 OTOOL=''
 PACKAGE='plexhive'
-PACKAGE_BUGREPORT='https://github.com/plexhive-project/plexhive/issues'
+PACKAGE_BUGREPORT='https://github.com/PlexHive/PlexHive/issues'
 PACKAGE_NAME='PlexHive Core'
 PACKAGE_STRING='PlexHive Core 0.16.3'
 PACKAGE_TARNAME='plexhive'
@@ -8827,7 +8827,7 @@ target_alias=''
 #define PACKAGE_TARNAME "plexhive"
 #define PACKAGE_VERSION "0.16.3"
 #define PACKAGE_STRING "PlexHive Core 0.16.3"
-#define PACKAGE_BUGREPORT "https://github.com/plexhive-project/plexhive/issues"
+#define PACKAGE_BUGREPORT "https://github.com/PlexHive/PlexHive/issues"
 #define PACKAGE_URL "https://plexhive.com/"
 #define HAVE_CXX11 1
 #define STDC_HEADERS 1

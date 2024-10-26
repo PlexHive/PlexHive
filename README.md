@@ -54,7 +54,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/plexhive/plexhive/tags) are created
+completely stable. [Tags](https://github.com/PlexHive/PlexHive/tags) are created
 regularly to indicate new official, stable release versions of PlexHive Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).

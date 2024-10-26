@@ -16,7 +16,7 @@ osx=true
 SIGNER=
 VERSION=
 commit=false
-url=https://github.com/plexhive-project/plexhive
+url=https://github.com/PlexHive/PlexHive
 proc=2
 mem=2000
 lxc=true
@@ -38,7 +38,7 @@ version		Version number, commit, or branch to build. If building a commit or bra
 
 Options:
 -c|--commit	Indicate that the version argument is for a commit or branch
--u|--url	Specify the URL of the repository. Default is https://github.com/plexhive-project/plexhive
+-u|--url	Specify the URL of the repository. Default is https://github.com/PlexHive/PlexHive
 -v|--verify 	Verify the gitian build
 -b|--build	Do a gitian build
 -s|--sign	Make signed binaries for Windows and Mac OSX
@@ -230,7 +230,7 @@ if [[ $setup = true ]]
 then
     sudo apt-get install ruby apache2 git apt-cacher-ng python-vm-builder qemu-kvm qemu-utils
     git clone https://github.com/plexhive-project/gitian.sigs.lcc.git
-    git clone https://github.com/plexhive-project/plexhive-detached-sigs.git
+    git clone https://github.com/PlexHive/PlexHive-detached-sigs.git
     git clone https://github.com/devrandom/gitian-builder.git
     pushd ./gitian-builder
     if [[ -n "$USE_LXC" ]]

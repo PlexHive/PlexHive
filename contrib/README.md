@@ -1,7 +1,7 @@
 PlexHive Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/plexhive-project/plexhive.svg?branch=master)](https://travis-ci.org/plexhive-project/plexhive)
+[![Build Status](https://travis-ci.org/PlexHive/PlexHive.svg?branch=master)](https://travis-ci.org/PlexHive/PlexHive)
 
 https://plexhive.com
 
@@ -23,7 +23,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/plexhive-project/plexhive/tags) are created
+completely stable. [Tags](https://github.com/PlexHive/PlexHive/tags) are created
 regularly to indicate new official, stable release versions of PlexHive Core.
 
 To contact the developers, please use the community channels shown on our website.

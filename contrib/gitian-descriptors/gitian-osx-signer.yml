@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/plexhive-project/plexhive-detached-sigs.git"
+- "url": "https://github.com/PlexHive/PlexHive-detached-sigs.git"
   "dir": "signature"
 files:
 - "plexhive-osx-unsigned.tar.gz"

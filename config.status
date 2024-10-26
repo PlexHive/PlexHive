@@ -429,7 +429,7 @@ $config_links
 Configuration commands:
 $config_commands
 
-Report bugs to <https://github.com/plexhive-project/plexhive/issues>.
+Report bugs to <https://github.com/PlexHive/PlexHive/issues>.
 PlexHive Core home page: <https://plexhive.com/>."
 
 ac_cs_config="'--prefix=/' --disable-shared --with-pic --with-bignum=no --enable-module-recovery --disable-jni"
@@ -1210,7 +1210,7 @@ S["program_transform_name"]="s,x,x,"
 S["prefix"]="/"
 S["exec_prefix"]="${prefix}"
 S["PACKAGE_URL"]="https://plexhive.com/"
-S["PACKAGE_BUGREPORT"]="https://github.com/plexhive-project/plexhive/issues"
+S["PACKAGE_BUGREPORT"]="https://github.com/PlexHive/PlexHive/issues"
 S["PACKAGE_STRING"]="PlexHive Core 0.16.3"
 S["PACKAGE_VERSION"]="0.16.3"
 S["PACKAGE_TARNAME"]="plexhive"
@@ -1263,7 +1263,7 @@ D["PACKAGE_NAME"]=" \"PlexHive Core\""
 D["PACKAGE_TARNAME"]=" \"plexhive\""
 D["PACKAGE_VERSION"]=" \"0.16.3\""
 D["PACKAGE_STRING"]=" \"PlexHive Core 0.16.3\""
-D["PACKAGE_BUGREPORT"]=" \"https://github.com/plexhive-project/plexhive/issues\""
+D["PACKAGE_BUGREPORT"]=" \"https://github.com/PlexHive/PlexHive/issues\""
 D["PACKAGE_URL"]=" \"https://plexhive.com/\""
 D["HAVE_CXX11"]=" 1"
 D["STDC_HEADERS"]=" 1"

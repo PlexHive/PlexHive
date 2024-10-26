@@ -87,9 +87,9 @@ PlexHive Core is now available at `./src/plexhived`
 
 Before running, it's recommended you create an RPC configuration file.
 
-    echo -e "rpcuser=plexhiverpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/PlexHive/plexhive.conf"
+    echo -e "rpcuser=plexhiverpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/PlexHive/PlexHive.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/PlexHive/plexhive.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/PlexHive/PlexHive.conf"
 
 The first time you run plexhived, it will start downloading the blockchain. This process could take several hours.
 

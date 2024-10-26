@@ -25,7 +25,7 @@ python27
 
 Download the source code:
 ```
-git clone https://github.com/plexhive-project/plexhive
+git clone https://github.com/PlexHive/PlexHive
 ```
 
 See [dependencies.md](dependencies.md) for a complete overview.
