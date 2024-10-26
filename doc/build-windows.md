@@ -106,7 +106,7 @@ The next three steps are an example of how to acquire the source in an appropria
 
     cd /usr/src
     sudo git clone https://github.com/PlexHive/PlexHive.git
-    sudo chmod -R a+rw plexhive
+    sudo chmod -R a+rw PlexHive
 
 Once the source code is ready the build steps are below.
 

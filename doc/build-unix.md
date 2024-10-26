@@ -18,6 +18,8 @@ To Build
 ---------------------
 
 ```bash
+sudo git clone https://github.com/PlexHive/PlexHive.git
+cd PlexHive
 find -type f -iname "*.sh" -exec chmod +x {} \;
 cd depends
 chmod +x config.guess
